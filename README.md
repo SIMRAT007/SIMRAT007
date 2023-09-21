@@ -9,21 +9,20 @@
 <hr>
 <hr>
 <h4 align="center">__ ABOUT ME  __</h4>
+<h3 align="center">
+  <a href="https://simratsingh.netlify.app/" target="_blank">
+    PORTFOLIO LINK
+  </a>
+</h3>
 
-
-<h2 align="center">😁 SIMRAT SINGH 😁</h2>
-###  
+<h2 align="center">😁 SIMRAT SINGH 😁</h2>  
 
 <div align="center">
   <img height="200" src="https://s11.gifyu.com/images/S44Gi.gif"  />
 </div>
 
 ###
-<h3 align="center">
-  <a href="https://simratsingh.netlify.app/" target="_blank">
-    PORTFOLIO LINK
-  </a>
-</h3>
+
 <p align="center">I am Simrat Singh, a passionate and driven computer science and engineering graduate from Lovely Professional University, where I completed my Bachelor of Technology in 2023. My journey in the world of technology has equipped me with a diverse set of technical skills, making me proficient in web development technologies such as HTML, CSS, JavaScript, React JS, Node JS, Express JS, Next JS, as well as programming languages like C, C++, Python, and PHP. Additionally, I have experience working with databases like SQL and MongoDB, cloud computing platforms such as AWS, and UI/UX design.<br><br>Certifications have played a significant role in enhancing my knowledge and expertise. I am proud to hold certifications in Programming with JavaScript and Full Stack Web Development with React Specialization from renowned institutions. I am constantly striving to expand my skill set and have also completed a UI/UX certification from Google, among others.<br><br>During my journey, I had the opportunity to gain real-world experience through internships. I interned as a Web Development Intern at Blu Ocean Innovations Pvt Ltd., Gurugram, India, where I contributed to the development of responsive and dynamic web pages and components using HTML, CSS, and JavaScript. I also had a hand in bug fixing and improving the website's UI/UX.<br><br>My passion for technology is further reflected in the projects I have undertaken. One of my notable projects is "Delicious Chef’s Food," a web application for food ordering. I was responsible for building the frontend using React JS, HTML, CSS, and JavaScript. The UI/UX design was crafted in Figma, and I implemented the backend and database using MongoDB and Excel sheets. Another project, "Crypto-Stalker," is a web application for tracking cryptocurrency prices, where I used Coin Gecko's API and React JS for the frontend, and Chart JS for plotting price history.<br><br>Beyond technical skills, I possess non-tech skills that are equally valuable in my professional journey, including adaptability, analytical and problem-solving abilities, collaboration, and effective time management.<br><br>In recognition of my dedication to coding, I have achieved the prestigious Code Chef 3-Star rating. I also served as the Technical Head for TMM org. at LPU and was a Runner-up in the One World LPU competition.<br><br>Currently, I reside at House No.12, Street No.01, Divya Colony, Bhamian Kalan, Ludhiana, Punjab (141015).<br><br>I am passionate about technology and committed to continuous learning, always eager to take on new challenges and create innovative solutions. My portfolio showcases a range of projects that demonstrate my skills and dedication to the field of computer science and engineering.</p>
 
 ###
