@@ -12,7 +12,12 @@
 
 
 <h2 align="center">😁 SIMRAT SINGH 😁</h2>
-
+###
+<h3 align="center">
+  <a href="https://simratsingh.netlify.app/" target="_blank">
+    PORTFOLIO LINK
+  </a>
+</h3>  
 ###
 
 <div align="center">
