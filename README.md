@@ -14,7 +14,7 @@
     PORTFOLIO LINK
   </a>
 </h3>
-<hr>
+<hr><hr>
 <h2 align="center">😁 SIMRAT SINGH 😁</h2>  
 
 <div align="center">
